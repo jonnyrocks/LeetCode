@@ -1,6 +1,7 @@
 # Time:  O(n)
 # Space: O(1)
 #
+
 # How would you print just the 10th line of a file?
 #
 # For example, assume that file.txt has the following content:
